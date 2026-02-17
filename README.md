@@ -35,7 +35,6 @@ customer segmentation, propensity scoring, and campaign optimization.
 
 ### 🎯 Interested In
 Marketing Data Scientist roles in **Fintech • Entertainment • Hospitality**  
-Target companies: Capital One • Amex • Netflix • Spotify • Hilton
 
 ---
 
