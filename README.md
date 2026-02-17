@@ -18,6 +18,11 @@ customer segmentation, propensity scoring, and campaign optimization.
 - 📧 **Email Engagement Propensity Model** — predicting campaign response 
   likelihood for CRM targeting
 
+### 📂 Featured Projects
+
+- 🏦 **[Credit Risk Evaluator](https://github.com/rlc93/Credit-Risk-Evaluator)** — Logistic Regression vs. Random Forest on lending data; best result: 79.64% accuracy
+- 🍔 **[Balaji Fast Food Sales Analysis](https://github.com/rlc93/Balaji-Fast-Food-Sales-Analysis)** — EDA on restaurant sales data with actionable business recommendations
+
 ### 📚 Currently Learning
 - Machine Learning with scikit-learn & Python
 - Causal Inference & Experimental Design
