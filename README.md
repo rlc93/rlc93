@@ -1,47 +1,37 @@
 # Hi, I'm Randy Crystian Jr. 👋
+**Senior Analyst | Experimentation • Causal Inference • Growth Analytics**
+Based in Dallas, TX
 
-**Senior Analyst → Marketing Data Scientist** based in Dallas, TX
+I work at the intersection of audience strategy, CRM segmentation, and performance measurement — helping marketing teams target the right customers, test smarter, and prove impact. Currently a Senior Analyst at Hilton, where I design and support scalable audience segments for Hilton Honors (100M+ members) across CRM and loyalty activation.
 
-I build data-driven solutions at the intersection of **marketing analytics, 
-customer intelligence, and machine learning**. Currently at Hilton, where I 
-design audience strategies for 10M+ loyalty members across CRM and co-brand 
-campaigns with American Express.
-
-I'm transitioning into Marketing Data Science — building ML models for 
-customer segmentation, propensity scoring, and campaign optimization.
+I'm preparing to transition into Product Data Science, with a focus on experimentation frameworks, causal measurement, and incrementality. Starting the MS in Data Science at UT Austin in Spring 2027.
 
 ---
 
-### 🔨 Currently Building
-- 🏨 **Hotel Booking Cancellation Predictor** — classification model for 
-  hospitality demand (scikit-learn, XGBoost)
-- 📧 **Email Engagement Propensity Model** — predicting campaign response 
-  likelihood for CRM targeting
+## 🛠️ Stack
+**Languages:** SQL, Python (pandas, scikit-learn, NumPy), basic R  
+**Data & BI:** Amazon Redshift, Databricks, Treasure Data, Tableau, Power BI, Excel  
+**Activation:** Braze  
+**Other:** Git, Jira, Confluence
 
-### 📂 Featured Projects
+---
 
-- 🏦 **[Credit Risk Evaluator](https://github.com/rlc93/Credit-Risk-Evaluator)** — Logistic Regression vs. Random Forest on lending data; best result: 79.64% accuracy
-- 🍔 **[Balaji Fast Food Sales Analysis](https://github.com/rlc93/Balaji-Fast-Food-Sales-Analysis)** — EDA on restaurant sales data with actionable business recommendations
+## 📌 Featured Projects
+- 🏈 **[sports-vegas-edge](https://github.com/rlc93/sports-vegas-edge)** — [add one-line description]
+- 🍔 **[Balaji Fast Food Sales Analysis](https://github.com/rlc93/Balaji-Fast-Food-Sales-Analysis)** — EDA on restaurant sales data; identified peak-hour patterns and item performance drivers to inform revenue strategy
+- 💳 **[Credit Risk Evaluator](https://github.com/rlc93/Credit-Risk-Evaluator)** — Logistic Regression vs. Random Forest comparison on lending data; evaluated using AUC and precision-recall to handle class imbalance
 
-### 📚 Currently Learning
-- Machine Learning with scikit-learn & Python
-- Causal Inference & Experimental Design
+---
+
+## 🌱 Currently Learning
+- Calculus 3 (Dallas College, Spring 2026)
 - Linear Algebra (Dallas College, Spring 2026)
-- Preparing for MS in Data Science — UT Austin (Spring 2027)
-
-### 💼 Experience
-- **Hilton** — Senior Analyst, Audience Development (2024–Present)
-- **7-Eleven** — Data Analyst (2023–2024)
-- **Georgetown University** — B.A. Psychology, NCAA D1 Football Captain
-
-### 🛠️ Tools & Skills
-`Python` `SQL` `Treasure Data (CDP)` `Braze` `Databricks` `Power BI` 
-`scikit-learn` `pandas` `Excel` `Salesforce`
-
-### 🎯 Interested In
-Marketing Data Scientist roles in **Fintech • Entertainment • Hospitality**  
+- Causal Inference & Experimental Design — self-study
+- Preparing for MS in Data Science at UT Austin (Spring 2027)
 
 ---
 
+## 📫 Connect
 📫 [LinkedIn](https://www.linkedin.com/in/randy-crystian-jr/)  
-📧 rlc93@georgetown.edu
+📧 [rlc93@georgetown.edu](mailto:rlc93@georgetown.edu)  
+📍 Dallas, TX
