@@ -17,7 +17,7 @@ I'm preparing to transition into Product Data Science, with a focus on experimen
 ---
 
 ## 📌 Featured Projects
-- 🏈 **[sports-vegas-edge](https://github.com/rlc93/sports-vegas-edge)** — [add one-line description]
+- 🏀🏈 **[vegas-sports-edge](https://github.com/rlc93/vegas-sports-edge)** — Sports prediction framework with causal inference and calibration rigor, benchmarked against Vegas closing lines — produces daily game forecasts and isolates the true causal effect of back-to-backs. NBA first; NFL in progress.
 - 🍔 **[Balaji Fast Food Sales Analysis](https://github.com/rlc93/Balaji-Fast-Food-Sales-Analysis)** — EDA on restaurant sales data; identified peak-hour patterns and item performance drivers to inform revenue strategy
 - 💳 **[Credit Risk Evaluator](https://github.com/rlc93/Credit-Risk-Evaluator)** — Logistic Regression vs. Random Forest comparison on lending data; evaluated using AUC and precision-recall to handle class imbalance
 
