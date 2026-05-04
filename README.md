@@ -1,5 +1,6 @@
 # Hi, I'm Randy Crystian Jr. 👋
 **Senior Analyst | Experimentation • Causal Inference • Growth Analytics**
+
 Based in Dallas, TX
 
 I work at the intersection of audience strategy, CRM segmentation, and performance measurement — helping marketing teams target the right customers, test smarter, and prove impact. Currently a Senior Analyst at Hilton, where I design and support scalable audience segments for Hilton Honors (100M+ members) across CRM and loyalty activation.
