@@ -1,7 +1,7 @@
 # Hi, I'm Randy Crystian Jr. 👋
 **Senior Analyst | Experimentation • Causal Inference • Growth Analytics**
 
-I build audience segments and test groups for Hilton Honors CRM and loyalty campaigns at Hilton, and I’m moving toward data science work in experimentation and causal measurement. Dallas, TX.
+I build audience segments and test groups for Hilton Honors CRM and loyalty campaigns at Hilton, and I'm moving toward data science work in experimentation and causal measurement. Dallas, TX.
 
 - Applying to MS in Data Science programs for Spring 2027.
 
